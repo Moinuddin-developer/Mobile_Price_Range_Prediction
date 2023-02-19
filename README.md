@@ -14,13 +14,12 @@
 <h2> :floppy_disk: Project Files Description</h2>
 
 
-<p>This Project includes 1 executable files, 1 technical ducument, 1 project summary document,1 project file </p>
+<p>This Project includes 1 executable files, 1 technical ducument, 1 project summary document,1 project PPT file 1 text file and dataset </p>
 <h4>Executable Files:</h4>
 
 
 <h4>Output Files:</h4>
 <ul>
-  <li><b>model.h5</b> - Model contains information about the predictions of the train set, such as 0(low),high(1),very high(2).</li>
   <li><b>confusion_matrix.txt</b> - Contains information about the classified emotions of the test set.</li>
   
 </ul>
@@ -78,8 +77,8 @@
 <p> <i> Contact me for Data Science Project Collaborations</i></p>
 
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apoorva-r-gowda/)
-[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/apoorvaKR12695)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/er-md-moinuddin-64a745186/)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Moinuddin-developer)
 
 
 
